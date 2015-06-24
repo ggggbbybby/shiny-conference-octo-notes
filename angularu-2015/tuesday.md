@@ -59,4 +59,8 @@ github.com/zurb/foundation-apps
 - on logout, delete JWT from local storage
 - within router, redirect to login unless JWT exists
 
-
+## Closing Keynote: Design + Performance
+[slides](http://stevesouders.com)
+- Designers and Developers actually want the same thing: optimal UX
+- <cliche ng-repeat='infinity'></cliche>
+- takeaway message: load scripts asynchronously *j/o motion*
